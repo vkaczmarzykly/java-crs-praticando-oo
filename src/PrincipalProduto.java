@@ -1,4 +1,4 @@
-public class Principal {
+public class PrincipalProduto {
     public static void main(String[] args) {
         Produto produto = new Produto();
 
